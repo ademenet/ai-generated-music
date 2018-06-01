@@ -62,7 +62,7 @@ Here a list of resources and papers I have been dragging on internet.
 - [Music21](http://web.mit.edu/music21/) - A toolkit for computer-aided musicology.
 - [pretty-midi](https://github.com/craffel/pretty-midi)
 - [mir_eval](https://github.com/craffel/mir_eval)
-- 
+- [mido](https://github.com/olemb/mido)
 
 ### Misc
 
