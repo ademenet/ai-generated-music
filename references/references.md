@@ -29,7 +29,8 @@ Here a list of resources and papers I have been dragging on internet.
 
 ### Papers
 
-- **MidiNet: A Convolutional Generative Adversarial Network for Symbolic-domain Music Generation** (1703) [[arxiv](https://arxiv.org/abs/1703.10847)][[blog](https://richardyang40148.github.io/TheBlog/index.html)]
+- **MidiNet: A Convolutional Generative Adversarial Network for Symbolic-domain Music Generation** (1703) [[arxiv](https://arxiv.org/abs/1703.10847)][[blog](https://richardyang40148.github.io/TheBlog/index.html)][[code](https://github.com/RichardYang40148/MidiNet)]
+- **Melody generation for pop music via word representation of musical properties** (1710) [[arxiv](https://arxiv.org/pdf/1710.11549.pdf)][[code](https://github.com/mil-tokyo/NeuralMelody)]
 
 ### Datasets
 
@@ -61,6 +62,7 @@ Here a list of resources and papers I have been dragging on internet.
 - [Music21](http://web.mit.edu/music21/) - A toolkit for computer-aided musicology.
 - [pretty-midi](https://github.com/craffel/pretty-midi)
 - [mir_eval](https://github.com/craffel/mir_eval)
+- 
 
 ### Misc
 
