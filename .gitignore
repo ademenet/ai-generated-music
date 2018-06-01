@@ -80,3 +80,6 @@ target/
 
 # Mac OS-specific storage files
 .DS_Store
+
+# crowdAI starter-kit
+/crowdai-ai-generate-music-starter-kit/
