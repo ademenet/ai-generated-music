@@ -67,3 +67,8 @@ Here a list of resources and papers I have been dragging on internet.
 ### Misc
 
 - [theorytabs](https://www.hooktheory.com/theorytab)
+
+### Repo
+
+- [Artificial Composition of Multi-Instrumental Polyphonic Music](https://github.com/davda54/generating-music) - Really good results!
+
