@@ -80,3 +80,6 @@ target/
 
 # crowdAI starter-kit
 /crowdai-ai-generate-music-starter-kit/
+
+# Dataset files
+/data/*.mid
