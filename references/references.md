@@ -26,6 +26,7 @@ Here a list of resources and papers I have been dragging on internet.
 - [Jiaqi Fu's Blog](http://fujiaqi.com/)
 - [Google Magenta](https://magenta.tensorflow.org/)
 - [Siraj's AI for music composition](https://github.com/llSourcell/AI_For_Music_Composition)
+- [PopMusicMaker](https://github.com/haebichan/PopMusicMaker) - [[article](https://towardsdatascience.com/making-music-when-simple-probabilities-outperform-deep-learning-75f4ee1b8e69)] Alternative to DL approaches, it uses statistics instead (HMM and Random forest-like structure).
 
 ### Papers
 
