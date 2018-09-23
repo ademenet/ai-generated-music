@@ -32,6 +32,8 @@ Here a list of resources and papers I have been dragging on internet.
 
 - **MidiNet: A Convolutional Generative Adversarial Network for Symbolic-domain Music Generation** (1703) [[arxiv](https://arxiv.org/abs/1703.10847)][[blog](https://richardyang40148.github.io/TheBlog/index.html)][[code](https://github.com/RichardYang40148/MidiNet)]
 - **Melody generation for pop music via word representation of musical properties** (1710) [[arxiv](https://arxiv.org/pdf/1710.11549.pdf)][[code](https://github.com/mil-tokyo/NeuralMelody)]
+- **Part-invariant model for music generation and harmonization** [[paper](http://www2.ece.rochester.edu/projects/air/publications/Yan2018partInvariant.pdf)]
+- **Deep Learning for music** [[review](https://cs224d.stanford.edu/reports/allenh.pdf)]
 
 ### Datasets
 
@@ -72,4 +74,4 @@ Here a list of resources and papers I have been dragging on internet.
 ### Repo
 
 - [Artificial Composition of Multi-Instrumental Polyphonic Music](https://github.com/davda54/generating-music) - Really good results!
-
+- [Awesome Deep Learning Music](https://github.com/ybayle/awesome-deep-learning-music)
